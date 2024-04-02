@@ -40,6 +40,9 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Scriptella](http://scriptella.org/) - Java-XML ETL toolbox for every day use.
 * [Spring Batch](http://projects.spring.io/spring-batch/) - ETL on Spring ecosystem
 
+## Red
+* [SmartXML](https://redata.dev/smartxml) - Converting XML to SQL and JSON
+
 ## Python
 ### Libraries
 * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - Popular library used to extract data from web pages.
